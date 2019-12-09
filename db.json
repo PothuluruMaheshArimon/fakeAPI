@@ -6,7 +6,7 @@
         "resultState": "2",
         "typeNumber": "1035202689",
         "typeVersion": "0001",
-        "uniquePartId": "0604482115"
+        "uniquePartId": "0614482115"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -14,7 +14,7 @@
         "resultState": "2",
         "typeNumber": "0261S100CZ",
         "typeVersion": "0001",
-        "uniquePartId": "0604418216"
+        "uniquePartId": "0624418216"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -22,7 +22,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AS",
         "typeVersion": "0001",
-        "uniquePartId": "0604415417"
+        "uniquePartId": "0634415417"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -30,7 +30,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AP",
         "typeVersion": "0001",
-        "uniquePartId": "0604454518"
+        "uniquePartId": "0644454518"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -38,7 +38,7 @@
         "resultState": "2",
         "typeNumber": "1035202680",
         "typeVersion": "0001",
-        "uniquePartId": "0604485614"
+        "uniquePartId": "0654485614"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -46,7 +46,7 @@
         "resultState": "2",
         "typeNumber": "0261S100CZ",
         "typeVersion": "0001",
-        "uniquePartId": "0604419711"
+        "uniquePartId": "0664419711"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -54,7 +54,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AS",
         "typeVersion": "0001",
-        "uniquePartId": "0604414813"
+        "uniquePartId": "0674414813"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -62,6 +62,6 @@
         "resultState": "2",
         "typeNumber": "0261S100AP",
         "typeVersion": "0001",
-        "uniquePartId": "0604451917"
+        "uniquePartId": "0684451917"
     }]
 }
