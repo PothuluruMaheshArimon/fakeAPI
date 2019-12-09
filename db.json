@@ -6,7 +6,7 @@
         "resultState": "2",
         "typeNumber": "1035202689",
         "typeVersion": "0001",
-        "uniquePartId": "0604482814"
+        "uniquePartId": "0604482114"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -14,7 +14,7 @@
         "resultState": "2",
         "typeNumber": "0261S100CZ",
         "typeVersion": "0001",
-        "uniquePartId": "0604418514"
+        "uniquePartId": "0604418214"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -22,7 +22,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AS",
         "typeVersion": "0001",
-        "uniquePartId": "0604415514"
+        "uniquePartId": "0604415414"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -38,7 +38,7 @@
         "resultState": "2",
         "typeNumber": "1035202689",
         "typeVersion": "0001",
-        "uniquePartId": "0604482814"
+        "uniquePartId": "0604482614"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -46,7 +46,7 @@
         "resultState": "2",
         "typeNumber": "0261S100CZ",
         "typeVersion": "0001",
-        "uniquePartId": "0604418514"
+        "uniquePartId": "0604418714"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -54,7 +54,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AS",
         "typeVersion": "0001",
-        "uniquePartId": "0604415514"
+        "uniquePartId": "0604415814"
     }, {
         "processNumber": "304",
         "locationId": "00000000001800720001100010001",
@@ -62,70 +62,7 @@
         "resultState": "2",
         "typeNumber": "0261S100AP",
         "typeVersion": "0001",
-        "uniquePartId": "0604454514"
-    },{
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 07.23.34.806887 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "1035202689",
-        "typeVersion": "0001",
-        "uniquePartId": "0604482814"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S100CZ",
-        "typeVersion": "0001",
-        "uniquePartId": "0604418514"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S100AS",
-        "typeVersion": "0001",
-        "uniquePartId": "0604415514"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S100AP",
-        "typeVersion": "0001",
-        "uniquePartId": "0604454514"
-    },{
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 07.23.34.806887 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "1035202689",
-        "typeVersion": "0001",
-        "uniquePartId": "0604482814"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S100CZ",
-        "typeVersion": "0001",
-        "uniquePartId": "0604418514"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S100AS",
-        "typeVersion": "0001",
-        "uniquePartId": "0604415514"
-    }, {
-        "processNumber": "304",
-        "locationId": "00000000001800720001100010001",
-        "resultDate": "12-NOV-19 10.36.14.688584 AM  ASIA/CALCUTTA",
-        "resultState": "2",
-        "typeNumber": "0261S1S0AP",
-        "typeVersion": "0001",
-        "uniquePartId": "0623454514"
+        "uniquePartId": "0604454914"
+    }
     }]
 }
