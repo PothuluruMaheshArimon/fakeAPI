@@ -6,7 +6,7 @@
     "resultState": "2",
     "typeNumber": "0281017355",
     "typeVersion": "0028",
-    "uniquePartId": "0403860984"
+    "uniquePartId": "0403860584"
   },{
     "locationId": "00000000001200710001100010001",
     "processNumber": "304",
@@ -14,7 +14,7 @@
     "resultState": "2",
     "typeNumber": "0261S1009B",
     "typeVersion": "0002",
-    "uniquePartId": "0505747652"
+    "uniquePartId": "0505747752"
   }, {
     "locationId": "00000000002000720001100010001",
     "processNumber": "304",
@@ -22,7 +22,7 @@
     "resultState": "2",
     "typeNumber": "0261S18379",
     "typeVersion": "0002",
-    "uniquePartId": "0108588927"
+    "uniquePartId": "0108588127"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -30,6 +30,6 @@
     "resultState": "2",
     "typeNumber": "0281017355",
     "typeVersion": "0028",
-    "uniquePartId": "0403860876"
+    "uniquePartId": "0403860376"
   }]
 }
