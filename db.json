@@ -1,107 +1,147 @@
- {
+{
   "dmcDataList": [{
-    "locationId": "00000000002400720001100010001",
-    "locationResultUid": "7BF97091C61751478C80F2C7FA0DC777",
-    "machineId": "72 Final Test",
+    "locationId": "00000000001100710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.02.233732 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.20.27.196268 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.299509 +5:30",
-    "typeNumber": "0261S19050",
-    "typeVarient": "0002",
-    "uniquePartId": "0505744454",
-    "workcycleCounter": "0"
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861113"
   }, {
-    "locationId": "00000000002300720001100010001",
-    "locationResultUid": "4C3A2E4B7F15E1428581DBBCDC76B69A",
-    "machineId": "72 Final Test",
+    "locationId": "00000000001200710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.02.909361 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.20.35.907763 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.302092 +5:30",
-    "typeNumber": "0261S15114",
-    "typeVarient": "0002",
-    "uniquePartId": "0802174549",
-    "workcycleCounter": "0"
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485572"
   }, {
-    "locationId": "00000000001800720001100010001",
-    "locationResultUid": "ADAD1DF2841F5E46A41EEE411270447C",
-    "machineId": "72 Final Test",
+    "locationId": "00000000001100710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.13.721553 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.20.53.183894 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.417417 +5:30",
-    "typeNumber": "0261S1002Y",
-    "typeVarient": "0001",
-    "uniquePartId": "0604478935",
-    "workcycleCounter": "0"
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861119"
   }, {
-    "locationId": "00000000002000720001100010001",
-    "locationResultUid": "C6C25C9097F233458DC2882BBD4C5129",
-    "machineId": "72 Final Test",
+    "locationId": "00000000001200710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.18.150563 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.20.59.831877 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.425317 +5:30",
-    "typeNumber": "1038408867",
-    "typeVarient": "0002",
-    "uniquePartId": "0604484770",
-    "workcycleCounter": "0"
-  }, {
-    "locationId": "00000000002300720001100010001",
-    "locationResultUid": "A03E09A8DA7B604FB325E0C90A94A679",
-    "machineId": "72 Final Test",
-    "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.25.159711 PM  ASIA/CALCUTTA",
-    "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.631691 +5:30",
-    "typeNumber": "0261S15114",
-    "typeVarient": "0002",
-    "uniquePartId": "0802174524",
-    "workcycleCounter": "0"
-  }, {
-    "locationId": "00000000002400720001100010001",
-    "locationResultUid": "25739628E2624E49A1CE7FBB92809A1F",
-    "machineId": "72 Final Test",
-    "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.27.577783 PM  ASIA/CALCUTTA",
-    "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.638106 +5:30",
-    "typeNumber": "0261S19050",
-    "typeVarient": "0002",
-    "uniquePartId": "0505744448",
-    "workcycleCounter": "0"
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485464"
   }, {
     "locationId": "00000000001800720001100010001",
-    "locationResultUid": "543D58D41AAF344BBFDCE7ED141200AB",
-    "machineId": "72 Final Test",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.42.447292 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.21.06.993657 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.936358 +5:30",
-    "typeNumber": "0261S1002Y",
-    "typeVarient": "0001",
-    "uniquePartId": "0604478902",
-    "workcycleCounter": "0"
+    "typeNumber": "0281020734",
+    "typeVersion": "0001",
+    "uniquePartId": "0604445856"
   }, {
-    "locationId": "00000000002300720001100010001",
-    "locationResultUid": "B2249F776A76C6489E7044C8BBAF3D21",
-    "machineId": "72 Final Test",
+    "locationId": "00000000001100710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 10.34.45.473984 PM  ASIA/CALCUTTA",
+    "resultDate": "11-NOV-19 04.21.16.887911 PM  ASIA/CALCUTTA",
     "resultState": "2",
-    "shiftCode": "null",
-    "timeStamp": "2019-11-11 22:38:00.947838 +5:30",
-    "typeNumber": "0261S15114",
-    "typeVarient": "0002",
-    "uniquePartId": "0802174533",
-    "workcycleCounter": "0"
-}]
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861111"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.21.26.035108 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485567"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.21.49.009415 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861108"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.21.52.016558 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485553"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.22.09.836794 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861103"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.22.17.434774 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485564"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.22.34.199639 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861109"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.22.41.436257 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485552"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.22.59.918905 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861117"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.23.05.435768 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485565"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.23.24.424661 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861008"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.23.29.414005 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485555"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.23.46.928086 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861112"
+  }]
 }
