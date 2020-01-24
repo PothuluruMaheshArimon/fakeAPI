@@ -1,5 +1,5 @@
 {
-  "dmcDataDateList": [{
+  "dmcDataList": [{
     "locationId": "00000000002400720001100010001",
     "locationResultUid": "7BF97091C61751478C80F2C7FA0DC777",
     "machineId": "72 Final Test",
@@ -12,6 +12,38 @@
     "typeVarient": "0002",
     "uniquePartId": "0505744454",
     "workcycleCounter": "0"
+  },{
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.20.35.907763 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485572"
+  }, {
+    "locationId": "00000000001100710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.20.53.183894 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281017355",
+    "typeVersion": "0028",
+    "uniquePartId": "0403861119"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.20.59.831877 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485464"
+  }, {
+    "locationId": "00000000001800720001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.21.06.993657 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281020734",
+    "typeVersion": "0001",
+    "uniquePartId": "0604445856"
   }, {
     "locationId": "00000000001200710001100010001",
     "processNumber": "304",
