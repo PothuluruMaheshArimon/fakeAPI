@@ -1,5 +1,5 @@
 {
-  "dmcDataDateList": [{
+  "dmcDataList": [{
     "locationId": "00000000002000720001100010001",
     "locationResultUid": "0859B54877EDE747A4B7B60B3BC1ED6A",
     "machineId": "72 Final Test",
@@ -12,6 +12,22 @@
     "typeVarient": "0001",
     "uniquePartId": "0505715394",
     "workcycleCounter": "0"
+  },{
+    "locationId": "00000000001800720001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.57.49.370921 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0281031331",
+    "typeVersion": "0015",
+    "uniquePartId": "0403861604"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 04.57.52.545497 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "typeNumber": "0261S1009B",
+    "typeVersion": "0002",
+    "uniquePartId": "0604485380"
   }, {
     "locationId": "00000000001800720001100010001",
     "locationResultUid": "4C3D4C2FB2666547858BB48F97F20011",
