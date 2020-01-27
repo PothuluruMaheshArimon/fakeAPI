@@ -12,5 +12,70 @@
     "typeVarient": "0001",
     "uniquePartId": "0505715394",
     "workcycleCounter": "0"
+  }, {
+    "locationId": "00000000002400720001100010001",
+    "locationResultUid": "4C49ADE0A461684182FF2F9865793C65",
+    "machineId": "72 Final Test",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 10.54.01.790651 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "shiftCode": "null",
+    "timeStamp": "2019-11-11 22:58:02.330782 +5:30",
+    "typeNumber": "0261S19050",
+    "typeVarient": "0002",
+    "uniquePartId": "0505744405",
+    "workcycleCounter": "0"
+  }, {
+    "locationId": "00000000001200710001100010001",
+    "locationResultUid": "7BE931141217864F951757A1B23BEF8E",
+    "machineId": "72 Final Test",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 10.54.14.477655 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "shiftCode": "null",
+    "timeStamp": "2019-11-11 22:58:02.501772 +5:30",
+    "typeNumber": "R917008015",
+    "typeVarient": "0017",
+    "uniquePartId": "0108591597",
+    "workcycleCounter": "0"
+  }, {
+    "locationId": "00000000002000720001100010001",
+    "locationResultUid": "0859B54877EDE747A4B7B60B3BC1ED6A",
+    "machineId": "72 Final Test",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 11.30.12.299468 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "shiftCode": "null",
+    "timeStamp": "2019-11-11 23:33:02.832547 +5:30",
+    "typeNumber": "1038408869",
+    "typeVarient": "0001",
+    "uniquePartId": "0505715394",
+    "workcycleCounter": "0"
+  }, {
+    "locationId": "00000000001800720001100010001",
+    "locationResultUid": "4C3D4C2FB2666547858BB48F97F20011",
+    "machineId": "72 Final Test",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 11.30.12.626894 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "shiftCode": "null",
+    "timeStamp": "2019-11-11 23:33:02.836705 +5:30",
+    "typeNumber": "1035202689",
+    "typeVarient": "0001",
+    "uniquePartId": "0604483016",
+    "workcycleCounter": "0"
+  }, {
+    "locationId": "00000000002300720001100010001",
+    "locationResultUid": "443A499C7DEDEB48A0D618BC568F69C9",
+    "machineId": "72 Final Test",
+    "processNumber": "304",
+    "resultDate": "11-NOV-19 11.30.19.973875 PM  ASIA/CALCUTTA",
+    "resultState": "2",
+    "shiftCode": "null",
+    "timeStamp": "2019-11-11 23:33:02.853578 +5:30",
+    "typeNumber": "0261S15114",
+    "typeVarient": "0002",
+    "uniquePartId": "0802174465",
+    "workcycleCounter": "0"
   }]
 }
