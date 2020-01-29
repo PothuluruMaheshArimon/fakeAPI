@@ -13,7 +13,7 @@
     "uniquePartId": "0505715394",
     "workcycleCounter": "0"
   }, {
-    "locationId": "00000000002400720001100010001",
+    "locationId": "00000000002000720001100010001",
     "locationResultUid": "4C49ADE0A461684182FF2F9865793C65",
     "machineId": "72 Final Test",
     "processNumber": "304",
@@ -26,12 +26,12 @@
     "uniquePartId": "0505744405",
     "workcycleCounter": "0"
   }, {
-    "locationId": "00000000001200710001100010001",
+    "locationId": "00000000002000710001100010001",
     "locationResultUid": "7BE931141217864F951757A1B23BEF8E",
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "11-NOV-19 10.54.14.477655 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 22:58:02.501772 +5:30",
     "typeNumber": "R917008015",
@@ -44,7 +44,7 @@
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "11-NOV-19 11.30.12.299468 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 23:33:02.832547 +5:30",
     "typeNumber": "1038408869",
@@ -52,12 +52,12 @@
     "uniquePartId": "0505715394",
     "workcycleCounter": "0"
   }, {
-    "locationId": "00000000001800720001100010001",
+    "locationId": "00000000002400720001100010001",
     "locationResultUid": "4C3D4C2FB2666547858BB48F97F20011",
     "machineId": "72 Final Test",
     "processNumber": "304",
     "resultDate": "11-NOV-19 11.30.12.626894 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "shiftCode": "null",
     "timeStamp": "2019-11-11 23:33:02.836705 +5:30",
     "typeNumber": "1035202689",
@@ -73,15 +73,15 @@
     "typeVersion": "0028",
     "uniquePartId": "0403861113"
   }, {
-    "locationId": "00000000002600710001100010001",
+    "locationId": "00000000001100710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.20.35.907763 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0261S1009B",
     "typeVersion": "0002",
     "uniquePartId": "0604485572"
   }, {
-    "locationId": "00000000002500710001100010001",
+    "locationId": "00000000001100710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.20.53.183894 PM  ASIA/CALCUTTA",
     "resultState": "2",
@@ -89,31 +89,31 @@
     "typeVersion": "0028",
     "uniquePartId": "0403861119"
   }, {
-    "locationId": "00000000001500710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.20.59.831877 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0261S1009B",
     "typeVersion": "0002",
     "uniquePartId": "0604485464"
   }, {
-    "locationId": "00000000001600720001100010001",
+    "locationId": "00000000001800720001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.21.06.993657 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0281020734",
     "typeVersion": "0001",
     "uniquePartId": "0604445856"
   }, {
-    "locationId": "00000000001700710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.21.16.887911 PM  ASIA/CALCUTTA",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0281017355",
     "typeVersion": "0028",
     "uniquePartId": "0403861111"
   }, {
-    "locationId": "00000000001300710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04.21.26.035108 PM  ASIA/CALCUTTA",
     "resultState": "2",
@@ -121,7 +121,7 @@
     "typeVersion": "0002",
     "uniquePartId": "0604485567"
   }, {
-    "locationId": "00000000002300720001100010001",
+    "locationId": "00000000001900720001100010001",
     "locationResultUid": "443A499C7DEDEB48A0D618BC568F69C9",
     "machineId": "72 Final Test",
     "processNumber": "304",
