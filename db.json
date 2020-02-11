@@ -1,5 +1,5 @@
  {
-  "dmcDataDateList":[{
+  "dmcDataList":[{
    "locationId":"00000000001200710001100010001",
    "processNumber":"304",
    "resultDate":"08-Feb-20 02:54:33.000342",
@@ -23,5 +23,53 @@
    "typeNumber":"0281036854",
    "typeVersion":"0000",
    "uniquePartId":"0403993066"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 02:53:21.000080",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993490"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 02:52:53.000472",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993489"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 02:53:48.000861",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993493"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 02:54:35.000278",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993181"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 02:54:25.000919",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993487"
+  },{
+   "locationId":"00000000001200710001100010001",
+   "processNumber":"304",
+   "resultDate":"08-Feb-20 03:05:55.000469",
+   "resultState":"1",
+   "typeNumber":"0281036854",
+   "typeVersion":"0000",
+   "uniquePartId":"0403993183"
   }]
  }
