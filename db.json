@@ -10,7 +10,7 @@
    "timeStamp":"2020-02-12 10:58:02.01298 +5:30",
    "typeNumber":"0261S100JY",
    "typeVarient":"0001",
-   "uniquePartId":"0108752899",
+   "uniquePartId":"01087528439",
    "workcycleCounter":"0"
   },{
    "locationId":"00000000003500700001100010001",
@@ -23,7 +23,7 @@
    "timeStamp":"2020-02-12 10:58:02.861385 +5:30",
    "typeNumber":"AD00A10075",
    "typeVarient":"0000",
-   "uniquePartId":"72008000018590012001251271012313",
+   "uniquePartId":"720080000185923012001251271012313",
    "workcycleCounter":"0"
   },{
    "locationId":"00000000003500700001100010001",
@@ -36,7 +36,7 @@
    "timeStamp":"2020-02-12 10:58:03.760246 +5:30",
    "typeNumber":"AD00A10075",
    "typeVarient":"0000",
-   "uniquePartId":"72008000018290022001251271012313",
+   "uniquePartId":"720080000182390022001251271012313",
    "workcycleCounter":"0"
   },{
    "locationId":"00000000002000720001100010001",
@@ -44,12 +44,12 @@
    "machineId":"72 Final Test",
    "processNumber":"304",
    "resultDate":"12-Feb-20 10:57:03",
-   "resultState":"1",
+   "resultState":"2",
    "shiftCode":"null",
    "timeStamp":"2020-02-12 10:58:03.951109 +5:30",
    "typeNumber":"0261S100JY",
    "typeVarient":"0001",
-   "uniquePartId":"0108753106",
+   "uniquePartId":"01087123106",
    "workcycleCounter":"0"
   },{
    "locationId":"00000000003500700001100010001",
@@ -62,7 +62,7 @@
    "timeStamp":"2020-02-12 11:03:02.385617 +5:30",
    "typeNumber":"AD00A10075",
    "typeVarient":"0000",
-   "uniquePartId":"72008000018330022001251271012313",
+   "uniquePartId":"720080000238330022001251271012313",
    "workcycleCounter":"0"
   }]
  }
