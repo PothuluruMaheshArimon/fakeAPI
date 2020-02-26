@@ -1,1 +1,266 @@
-
+{
+  "dmcDataList":[{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:54:33",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993178"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:59:11",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993065"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:53:42",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993066"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:53:21",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993490"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:52:53",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993489"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:53:48",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993493"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:54:35",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993181"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:54:25",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993487"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:05:55",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993183"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:52:37",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993192"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:06:10",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993197"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:55:03",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993188"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:59:21",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993496"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:02:24",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993194"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:59:15",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993193"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:06:57",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993182"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 02:59:10",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993196"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:05:13",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993198"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304","resultDate":"08-Feb-20 03:01:10",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993206"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:11:32",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993195"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:03:46",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993499"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:14:45",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993207"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:07:32",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993191"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:15:19",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0404000106"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:12:27",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993205"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:05:21",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993189"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:14:55",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993208"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:10:03",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403993210"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:05:47",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0403999879"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:14:32",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0404000286"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:12:14",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0404000023"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:14:00",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0404000102"
+  },{
+    "locationId":"00000000001200710001100010001",
+    "processNumber":"304",
+    "resultDate":"08-Feb-20 03:13:47",
+    "resultState":"1",
+    "typeNumber":"0281036854",
+    "typeVersion":"0000",
+    "uniquePartId":"0404000101"
+  }]
+}
