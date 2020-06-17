@@ -6,7 +6,7 @@
     "resultState": "2",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "023317355"
+    "uniquePartId": "0233127355"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -14,13 +14,13 @@
     "resultState": "1",
     "typeNumber": "022342317355",
     "typeVersion": "0028",
-    "uniquePartId": "0219131113"
+    "uniquePartId": "02191231113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04:20:27",
     "resultState": "1",
-    "typeNumber": "028123017355",
+    "typeNumber": "0281230217355",
     "typeVersion": "0028",
     "uniquePartId": "040361113"
   }, {
@@ -30,7 +30,7 @@
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "046361113"
+    "uniquePartId": "0463612113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -38,7 +38,7 @@
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "043811113"
+    "uniquePartId": "0438112113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -46,7 +46,7 @@
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "04811113"
+    "uniquePartId": "048121113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -54,7 +54,7 @@
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "042311113"
+    "uniquePartId": "0423121113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -62,7 +62,7 @@
     "resultState": "1",
     "typeNumber": "02811237355",
     "typeVersion": "0028",
-    "uniquePartId": "0405431113"
+    "uniquePartId": "0405431222113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -70,7 +70,7 @@
     "resultState": "1",
     "typeNumber": "0281023217355",
     "typeVersion": "0028",
-    "uniquePartId": "04031113"
+    "uniquePartId": "040311213"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -78,7 +78,7 @@
     "resultState": "1",
     "typeNumber": "028102317355",
     "typeVersion": "0028",
-    "uniquePartId": "0401113"
+    "uniquePartId": "04012113"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -86,7 +86,7 @@
     "resultState": "1",
     "typeNumber": "02810147355",
     "typeVersion": "0028",
-    "uniquePartId": "0403161113"
+    "uniquePartId": "04031611213"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -94,7 +94,7 @@
     "resultState": "1",
     "typeNumber": "028103317355",
     "typeVersion": "0028",
-    "uniquePartId": "04345113"
+    "uniquePartId": "043451213"
   }, {
     "locationId": "00000000001100710001100010001",
     "processNumber": "304",
@@ -102,6 +102,6 @@
     "resultState": "1",
     "typeNumber": "0281317355",
     "typeVersion": "0028",
-    "uniquePartId": "040651113"
+    "uniquePartId": "0406511213"
   }]
 }
