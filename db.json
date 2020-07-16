@@ -1,12 +1,12 @@
 {
   "dmcDataList": [{
-    "locationId": "00000000001100710001100010001",
+    "locationId": "00000000002400710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
-    "uniquePartId": "02343341212"
+    "uniquePartId": "0505744448"
   }, {
     "locationId": "00000000001200710001100010001",
     "processNumber": "304",
