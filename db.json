@@ -1,16 +1,16 @@
 {
   "dmcDataList": [{
-    "locationId": "00000000002300710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
     "uniquePartId": "080214533"
   }, {
-    "locationId": "00000000002300710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "022342317355",
     "typeVersion": "0028",
@@ -18,15 +18,15 @@
   }, {
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "0281230217355",
     "typeVersion": "0028",
     "uniquePartId": "0401611"
   }, {
-    "locationId": "00000000002000710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
@@ -34,7 +34,7 @@
   }, {
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
@@ -42,45 +42,45 @@
   }, {
     "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
     "uniquePartId": "060448902"
   }, {
-    "locationId": "00000000002400710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028123017355",
     "typeVersion": "0028",
     "uniquePartId": "042112321"
   }, {
-    "locationId": "00000000002600710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "02811237355",
     "typeVersion": "0028",
     "uniquePartId": "040154331"
   }, {
-    "locationId": "00000000003500710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "0281023217355",
     "typeVersion": "0028",
     "uniquePartId": "040311511"
   }, {
-    "locationId": "00000000003200710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "0281023",
     "typeVersion": "0028",
     "uniquePartId": "040121133"
   }, {
-    "locationId": "00000000002800710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "11-NOV-19 04:20:27",
     "resultState": "1",
@@ -88,17 +88,17 @@
     "typeVersion": "0028",
     "uniquePartId": "040131261"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "028103317355",
     "typeVersion": "0028",
     "uniquePartId": "043451412"
   }, {
-    "locationId": "00000000002200710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
-    "resultDate": "11-NOV-19 04:20:27",
+    "resultDate": "11-DEC-20 04:20:27",
     "resultState": "1",
     "typeNumber": "0281317355",
     "typeVersion": "0028",
