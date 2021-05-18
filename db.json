@@ -1,6 +1,6 @@
 {
   "dmcDataList": [{
-    "locationId": "00000000001800710001100010001",
+    "locationId": "String",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
