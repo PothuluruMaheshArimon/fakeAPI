@@ -1,6 +1,6 @@
 {
   "dmcDataList": [{
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -8,7 +8,7 @@
     "typeVersion": "0",
     "uniquePartId": "06044728935"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -16,7 +16,7 @@
     "typeVersion": "0028",
     "uniquePartId": "06044728935"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "2",
@@ -24,7 +24,7 @@
     "typeVersion": "0028",
     "uniquePartId": "0011232113524"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -32,7 +32,7 @@
     "typeVersion": "0028",
     "uniquePartId": "00121803524"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -40,7 +40,7 @@
     "typeVersion": "0028",
     "uniquePartId": "00122028524"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -48,7 +48,7 @@
     "typeVersion": "0028",
     "uniquePartId": "04115028412"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -56,7 +56,7 @@
     "typeVersion": "0028",
     "uniquePartId": "04117213412"
   },{
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
@@ -64,7 +64,7 @@
     "typeVersion": "0028",
     "uniquePartId": "04117218412"
   }, {
-    "locationId": "00000000001800710001100010001",
+    "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
     "resultState": "1",
