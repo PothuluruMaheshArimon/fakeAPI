@@ -3,18 +3,10 @@
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "1",
+    "resultState": "2",
     "typeNumber": "0261S104O",
     "typeVersion": "0028",
-    "uniquePartId": "0618923235"
-  }, {
-    "locationId": "00000000001900710001100010001",
-    "processNumber": "304",
-    "resultDate": "03-APR-21 04:20:27",
-    "resultState": "1",
-    "typeNumber": "0261S104O",
-    "typeVersion": "0028",
-    "uniquePartId": "06252233423"
+    "uniquePartId": "061892233235"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -22,7 +14,15 @@
     "resultState": "1",
     "typeNumber": "0261S104O",
     "typeVersion": "0028",
-    "uniquePartId": "0062223342"
+    "uniquePartId": "0625276233423"
+  }, {
+    "locationId": "00000000001900710001100010001",
+    "processNumber": "304",
+    "resultDate": "03-APR-21 04:20:27",
+    "resultState": "1",
+    "typeNumber": "0261S104O",
+    "typeVersion": "0028",
+    "uniquePartId": "006222563342"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -30,7 +30,7 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "0053223342"
+    "uniquePartId": "0053226763342"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -38,7 +38,7 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "001233342523"
+    "uniquePartId": "001233687342523"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -46,7 +46,7 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "041423222343"
+    "uniquePartId": "041426763222343"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -54,7 +54,7 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "041232332344"
+    "uniquePartId": "04123237832344"
   },{
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -62,7 +62,7 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "044342323223"
+    "uniquePartId": "044342378723223"
   }, {
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
@@ -70,6 +70,6 @@
     "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
-    "uniquePartId": "0413232234352"
+    "uniquePartId": "0413237872234352"
   }]
 }
