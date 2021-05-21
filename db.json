@@ -19,7 +19,7 @@
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0261S104O",
     "typeVersion": "0028",
     "uniquePartId": "001352234"
@@ -67,7 +67,7 @@
     "locationId": "00000000001900710001100010001",
     "processNumber": "304",
     "resultDate": "03-APR-21 04:20:27",
-    "resultState": "2",
+    "resultState": "1",
     "typeNumber": "0261S104EO",
     "typeVersion": "0028",
     "uniquePartId": "0410023212"
