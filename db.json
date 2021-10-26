@@ -1,75 +1,75 @@
 {
   "dmcDataList": [{
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "0156132235"
+    "uniquePartId": "01561232235"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "0152171423"
+    "uniquePartId": "01521712423"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "0122211623342"
+    "uniquePartId": "01222211623342"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "031122723342"
+    "uniquePartId": "0311222723342"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "02311242523"
+    "uniquePartId": "023112242523"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "04261723343"
+    "uniquePartId": "042612723343"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "043111322344"
+    "uniquePartId": "0431211322344"
   },{
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "01422113223"
+    "uniquePartId": "014221213223"
   }, {
-    "locationId": "00000000002100710001100010001",
+    "locationId": "00000000001800710001100010001",
     "processNumber": "304",
     "resultDate": "30-AUG-21 04:20:27",
     "resultState": "1",
-    "typeNumber": "0261S1104O1",
+    "typeNumber": "0261S2104O1",
     "typeVersion": "0028",
-    "uniquePartId": "01413234352"
+    "uniquePartId": "014132234352"
   }]
 }
