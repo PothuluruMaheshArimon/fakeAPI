@@ -6,7 +6,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "060448421770"
+    "uniquePartId": "0604482421770"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -14,7 +14,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "015211731122423"
+    "uniquePartId": "0152112731122423"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -22,7 +22,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0122641223342"
+    "uniquePartId": "01222641223342"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -30,7 +30,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0320224723342"
+    "uniquePartId": "03202224723342"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -38,7 +38,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0231124212242523"
+    "uniquePartId": "02311224212242523"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -46,7 +46,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0112722433143"
+    "uniquePartId": "01127222433143"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -54,7 +54,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "04312113121322344"
+    "uniquePartId": "043121132121322344"
   },{
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -62,7 +62,7 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0142121142213223"
+    "uniquePartId": "01421212142213223"
   }, {
     "locationId": "00000000002200710001100010001",
     "processNumber": "304",
@@ -70,6 +70,6 @@
     "resultState": "1",
     "typeNumber": "0261S2104O11",
     "typeVersion": "0028",
-    "uniquePartId": "0141324121234352"
+    "uniquePartId": "01413241221234352"
   }]
 }
